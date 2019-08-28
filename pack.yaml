@@ -1,6 +1,6 @@
 ---
-ref: kenny_pack
-name: Azure Delete Machine
+ref: Rishabh
+name: Delete vmMachine
 description: Pack to create ,start ,stop and delete VM on Azure
 keywords:
     - azure
